@@ -5,7 +5,7 @@
 * PID control was used to get an ideal trajectory
 * Gradient Descent was used for optimization, which used strategy from both Manual Input and Grid Search
 
-[Final project video](https://drive.google.com/file/d/17zHwspgr7HUGuOpp4-EuwP8Fc5IUpUlE/view?usp=sharing)
+[Final Project Video](https://drive.google.com/file/d/17zHwspgr7HUGuOpp4-EuwP8Fc5IUpUlE/view?usp=sharing)
 
 [Slides Presentation](https://docs.google.com/presentation/d/1zlToXBwHTpcXy77p1CUoKDTNeZQdINMt/edit?usp=sharing&ouid=104013007382217939820&rtpof=true&sd=true)
 
