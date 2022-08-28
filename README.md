@@ -1,4 +1,4 @@
-# Stanford AI4ALL 2022
+# Stanford AI4ALL 2022 🌲
 #### Used neural networks to make a plane autonomously taxi down a runway and take off through the X-Plane 11 Flight Simulator! 
 
 **Goal:** To create an algorithm enabling the plane simulation to run on the centerline of the tarmac without overfitting or underfitting.
