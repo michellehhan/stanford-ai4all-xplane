@@ -3,6 +3,6 @@ Used neural networks to make a plane autonomously taxi down a runway and take of
 
 [Slides Presentation](https://docs.google.com/presentation/d/1zlToXBwHTpcXy77p1CUoKDTNeZQdINMt/edit?usp=sharing&ouid=104013007382217939820&rtpof=true&sd=true)
 
-![Farmers Market Finder - Animated gif demo](xplane/my_trajectry.gif)
+![Plane Trajectory GIF](my_trajectry.gif)
 
 Mentors: Keiko Nagami & Roya Firoozi <3
