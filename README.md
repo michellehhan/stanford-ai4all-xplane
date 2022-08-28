@@ -3,6 +3,8 @@ Used neural networks to make a plane autonomously taxi down a runway and take of
 
 [Slides Presentation](https://docs.google.com/presentation/d/1zlToXBwHTpcXy77p1CUoKDTNeZQdINMt/edit?usp=sharing&ouid=104013007382217939820&rtpof=true&sd=true)
 
+
+## Plane Trajectory GIF
 ![Plane Trajectory GIF](my_trajectry.gif)
 
 Mentors: Keiko Nagami & Roya Firoozi <3
