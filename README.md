@@ -7,7 +7,7 @@
 
 [Final Project Video](https://drive.google.com/file/d/17zHwspgr7HUGuOpp4-EuwP8Fc5IUpUlE/view?usp=sharing)
 
-[Slides Presentation](https://docs.google.com/presentation/d/1zlToXBwHTpcXy77p1CUoKDTNeZQdINMt/edit?usp=sharing&ouid=104013007382217939820&rtpof=true&sd=true)
+[Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSS98bpHU_rnQDU7YioVcDwaU77KqqTYsN1pmtrHLET5qS2LHBplwlBizYyJH1dXg/pub?start=false&loop=false&delayms=5000)
 
 
 ### Plane Trajectory GIF
